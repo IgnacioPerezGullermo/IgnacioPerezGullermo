@@ -1,23 +1,23 @@
 ### Hi there 👋
 <p align="center">
 
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+  <img src="https://www.teahub.io/photos/full/88-881812_software-developer-wallpaper.jpg" alt="Coder GIF" width="500" height="400">
   
 </p>
 
-# Hi guys 👋  I'm Ashfaque Ali
+# Hello there 👋  I'm Nacho Perez Gullermo
 
 
 
 
 
-- 🔭 At that movement I am doing BCA (Bachelors of Computer Application)
-- 🌱 I’m currently learning React JS
-- 👯 open source contributor
-- 💬 Ask me about **MongoDB** **Express** **React JS** **Node JS**
-- 📫 How to reach me: aliashfak178@gmail.com
-- 😄 Pronouns: Pronouns: I, you, he, it, they, this
-- ⚡  Fun fact: I spend almost 5-6 hours Learning everyday
+- 🔭 Full Stack Web Developer
+- 🌱 PERN Stack, learning some Nest.Js and Typescript
+- 👯 Leadership Badge
+- 💬 Ask me about **PostgreSQL** **Express** **React JS** **Node JS**
+- 📫 How to reach me: nacho71197@gmail.com
+- 😄 I'm a bathtub singer, but I actually studied and i'm good at it, and technologic enthusiastic
+- ⚡  Fun fact: I have 3 cats over my computer?
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,7 +32,3 @@
   
 </p>
 
-----
-Credit: [aliashfak178](https://github.com/aliashfak178)
-
-Last Edited on: 26/01/2021
