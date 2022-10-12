@@ -22,6 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bebeloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bebeloper" height="30" width="40" /></a>
+  <a href="https://walink.co/53c49b" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:WhatsApp.svg" alt="bebeloper" height="30" width="40" /></a>
 </p>
 
 
