@@ -1,10 +1,4 @@
 
-<p align="center">
-
-  <img src="https://preview.redd.it/8hkekbti9a221.jpg?auto=webp&s=5f41fa425181a4de6337ae5397be19aacf8df171" alt="Coder GIF" width="850" height="450">
-  
-</p>
-
 👋  I'm Nacho Perez Gullermo
 
 
