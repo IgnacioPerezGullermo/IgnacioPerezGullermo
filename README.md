@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="center">
 
-  <img src="https://www.teahub.io/photos/full/88-881812_software-developer-wallpaper.jpg" alt="Coder GIF" width="500" height="400">
+  <img src="https://preview.redd.it/8hkekbti9a221.jpg?auto=webp&s=5f41fa425181a4de6337ae5397be19aacf8df171" alt="Coder GIF" width="60vw" height="40vh">
   
 </p>
 
