@@ -8,7 +8,11 @@
 👋  I'm Nacho Perez Gullermo
 
 
+<p align="center">
 
+  <img src="https://res.cloudinary.com/duilsmrmx/image/upload/v1665600464/uyomvvynpef8deexqydq.png" alt="Coder GIF" width="850" height="450">
+  
+</p>
 
 
 - 🔭 Full Stack Web Developer
